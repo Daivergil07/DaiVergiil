@@ -51,7 +51,8 @@ body {
 
 .ctaa {
     display: block;
-    padding: 10px 20px;
+    padding: 20px 20px;
+    margin: 10px;
     background-image: url(aesthetic-neon-wallpaper-preview.jpg);
     color: #fff;
     text-decoration: none;
