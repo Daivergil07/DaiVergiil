@@ -3,11 +3,14 @@
 }
 
 body {
+
     display: flex;
     align-items: center;
     justify-content: center;
     background-size: cover;
     display: flex;
+    height: 100vh;
+    margin: 0;
 }
 
 .image-card {
