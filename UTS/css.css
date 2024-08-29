@@ -34,7 +34,7 @@ body {
     border-radius: 5px;
     transition: background 0.3s;
     animation-duration: 3s;
-    animation-name: slidein;
+    
 }
 
 .ctas {
@@ -46,7 +46,7 @@ body {
     border-radius: 5px;
     transition: background 0.3s;
     animation-duration: 3s;
-    animation-name: slidein;
+    
 }
 
 
@@ -125,7 +125,7 @@ body {
     text-align: center;
     padding-top: 100px;
     animation-duration: 3s;
-    animation-name: slidein;
+    
 }
 
 .img-cad {
@@ -133,14 +133,5 @@ body {
 }
 
 
-@keyframes slidein {
-    from {
-      translate: 200vw 0;
-      scale: 200% 1;
-    }
-    to {
-      translate: 0 0;
-      scale: 100% 1;
-    }
-}
+
 
