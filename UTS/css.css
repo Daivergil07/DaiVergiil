@@ -1,5 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
-    background-image: url(aesthetic-neon-wallpaper-preview.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    display: flex;
 }
 
 .image-card {
